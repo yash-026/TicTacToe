@@ -1,6 +1,12 @@
 # tic_tac_toe
 
 A classic Tic Tac Toe game.
+This app was developed using Flutter.
+The app includes only 2 player mode of tic tac toe with a timer.
+While the 2 player mode is functional, other features like single player  mode and leaderboard are not yet added.
+The app also has light mode and dark mode which can be changed by changing the device theme preference.
+I am sorry for not being able to comment the app because of time restraint. 
+
 
 ## Getting Started
 
